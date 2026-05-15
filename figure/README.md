@@ -1,0 +1,1 @@
+Figures should be placed in this directory.
